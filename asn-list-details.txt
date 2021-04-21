@@ -1,0 +1,51 @@
+AS9146 		BH Telecom d.d. Sarajevo 	172,800
+AS42560 	Telemach d.o.o. Sarajevo 	143,360
+AS25144 	Telekomunikacije Republike Srpske akcionarsko drustvo Banja Luka 	123,392
+AS20875 	HT d.o.o. Mostar 	73,728
+AS198252 	ELTA KABEL d.o.o. 	38,144
+AS16178 	Logosoft , information engineering and Internet providing 	35,840
+AS21107 	Blicnet d.o.o. 	33,280
+AS35567 	DASTO semtel d.o.o. 	29,440
+AS42571 	Telrad Net doo 	21,504
+AS202632 	TXTV d.o.o. Tuzla 	18,688
+AS43752 	Ministry for Scientific and Technological Development, Higher Education and Information Society of the Republic of Srpska 	16,384
+AS57869 	MISS.NET d.o.o. 	11,264
+AS43179 	Team Consulting d.o.o. 	10,240
+AS8670 		University of Sarajevo 	8,192
+AS16145 	Lanaco d.o.o. za Informacione Tehnologije Banja Luka 	5,120
+AS59457 	AVAX NET doo za telekomunikacije, racunarski inzenjering, konsalting i promet Lukavac 	4,864
+AS200698 	Globalhost d.o.o. 	4,096
+AS34943 	Poste Srpske a.d. 	4,096
+AS47959 	Telinea d.o.o. 	4,096
+AS59847 	WIRAC.NET d.o.o. 	4,096
+AS50537 	QSS D.O.O. Sarajevo 	3,072
+AS199051 	D.O.O. Elit M Biljeljina 	2,560
+AS198994 	Nova banka AD Banjaluka 	2,048
+AS212665 	Teledigital d.d. Sarajevo 	2,048
+AS203744 	TRION TEL d.o.o. 	1,792
+AS209491 	ZipZap doo Zenica 	1,024
+AS200914 	Agencija za bankarstvo FBiH 	1,024
+AS201719 	Teleklik d.o.o. 	1,024
+AS39826 	Terc Trade Company d.o.o. 	1,024
+AS35107 	MEDIA SKY d.o.o. za proizvodnju, promet i usluge 	1,024
+AS208881 	Formea drustvo za trgovinu, informaticki inzenjering i konsalting d.o.o. Visoko 	1,024
+AS209098 	University of Sarajevo 	1,024
+AS206474 	Agency for medicinal products and medical devices of Bosnia and Herzegovina 	768
+AS205913 	Diplomat d.o.o. 	768
+AS209271 	Integra Inzenjering d.o.o. 	512
+AS43947 	Raiffeisen Bank D.D. Bosnia and Herzegovina 	256
+AS50249 	Sberbank BH d.d. 	256
+AS39689 	Konzum d.o.o. 	256
+AS43604 	Telemach d.o.o. Sarajevo 	0
+AS61222 	SD Sistemi LTD. 	0
+AS35143 	Bicom Ltd 	0
+AS42432 	Kablovska Televizija HS d.o.o Sarajevo 	0
+AS42450 	Telekabel d.o.o. 	0
+AS42983 	Telemach d.o.o. Sarajevo 	0
+AS212572 	NEON SOLUCIJE d.o.o. za telekomunikacije, inzinjering, konsalting i usluge 	0
+AS47840 	DSL-Elektronika d.o.o. 	0
+AS48443 	University of Sarajevo 	0
+AS50938 	Telemach d.o.o. Sarajevo 	0
+AS51386 	Telemach d.o.o. Sarajevo 	0
+AS197687 	Telemach d.o.o. Sarajevo 	0
+AS209493 	NEON SOLUCIJE d.o.o. za telekomunikacije, inzinjering, konsalting i usluge 	0
